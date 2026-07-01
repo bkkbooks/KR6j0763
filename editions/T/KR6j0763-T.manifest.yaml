@@ -1,0 +1,412 @@
+canonical_identifier: bkk:krp/KR6j0763/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0763/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蘇悉地羯羅經
+  identifiers:
+    krp: KR6j0763
+    cbeta: T18n0893b
+    cbeta_old_id: T18n0893b
+    authorityid: CA0002859b
+    json_key: T0893b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0893b.xml
+    old_id: T18n0893b
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0763_000-T.yaml, hash: 'sha256:d6f5829a7ed60e33e34f42d2ff829ae0e53af496185be372b23dec9564525b84'}
+  - {seq: 1, filename: KR6j0763_001-T.yaml, hash: 'sha256:4cab1c85a6f3914ae8d52895d4d87be429a4f5c61a8ae28de352141f06958712'}
+  - {seq: 2, filename: KR6j0763_002-T.yaml, hash: 'sha256:29132cd7b6ea11a53ec1cedafc32d05173e830cbfce9124b6d36c65409263b41'}
+  - {seq: 3, filename: KR6j0763_003-T.yaml, hash: 'sha256:f2b991bbdc535ed70800e3659af3068c8d6635161861bad088b368da2e027340'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0763_000-T.markers.yaml, hash: 'sha256:c3ddfb532081315f6e50415a3d580a1e23d8cc7d632052578ee71d0d1bb1b2a3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0763_001-T.markers.yaml, hash: 'sha256:75ee39eb7991de19942c6d1c9ad7cdc55614a86a44d229bfc2785cd6f5a979c7'}
+  - {seq: 2, role: markers, filename: assets/KR6j0763_002-T.markers.yaml, hash: 'sha256:1836a6f79676af12b0dc5aee213c63745b4f19746880801e5655975231c3e681'}
+  - {seq: 3, role: markers, filename: assets/KR6j0763_003-T.markers.yaml, hash: 'sha256:7dbe1cc52369ecafe908c98e4cf1678a68882759b6e055ebb13edcc07e1c76b5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 13624
+  label: 蘇悉地羯囉經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 請問品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-2
+    span:
+    - body
+    - 469
+    - 469
+  label: 2 真言相分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-3
+    span:
+    - body
+    - 2422
+    - 2422
+  label: 3 分別阿闍梨相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-4
+    span:
+    - body
+    - 2806
+    - 2806
+  label: 4 分別持誦真言相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-5
+    span:
+    - body
+    - 3161
+    - 3161
+  label: 5 分別同伴相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-6
+    span:
+    - body
+    - 3933
+    - 3933
+  label: 6 簡擇處所品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-7
+    span:
+    - body
+    - 4509
+    - 4509
+  label: 7 分別戒法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-8
+    span:
+    - body
+    - 7608
+    - 7608
+  label: 8 供養華品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-9
+    span:
+    - body
+    - 8343
+    - 8343
+  label: 9 塗香藥品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-10
+    span:
+    - body
+    - 9808
+    - 9808
+  label: 10 分別燒香品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-11
+    span:
+    - body
+    - 10524
+    - 10524
+  label: 11 然燈法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0763_T_001-mulu-12
+    span:
+    - body
+    - 10964
+    - 10964
+  label: 12 獻食品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 14777
+  label: 蘇悉地羯羅經卷中此卷首元落却三品
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 16 分別成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-2
+    span:
+    - body
+    - 828
+    - 828
+  label: 17 奉請品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-3
+    span:
+    - body
+    - 1826
+    - 1826
+  label: 18 供養品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-4
+    span:
+    - body
+    - 7016
+    - 7016
+  label: 19 光顯品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-5
+    span:
+    - body
+    - 7430
+    - 7430
+  label: 20 本尊灌頂品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-6
+    span:
+    - body
+    - 7693
+    - 7693
+  label: 21 祈請品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-7
+    span:
+    - body
+    - 8381
+    - 8381
+  label: 22 受真言品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-8
+    span:
+    - body
+    - 9070
+    - 9070
+  label: 23 滿足真言品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-9
+    span:
+    - body
+    - 9319
+    - 9319
+  label: 24 增力品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-10
+    span:
+    - body
+    - 9506
+    - 9506
+  label: 25 護摩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-11
+    span:
+    - body
+    - 10402
+    - 10402
+  label: 26 備物品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-12
+    span:
+    - body
+    - 10707
+    - 10707
+  label: 27 成諸相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-13
+    span:
+    - body
+    - 11510
+    - 11510
+  label: 28 取物品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-14
+    span:
+    - body
+    - 11665
+    - 11665
+  label: 29 淨物品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-15
+    span:
+    - body
+    - 11836
+    - 11836
+  label: 30 物量品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-16
+    span:
+    - body
+    - 12120
+    - 12120
+  label: 31 灌頂壇品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0763_T_002-mulu-17
+    span:
+    - body
+    - 13475
+    - 13475
+  label: 32 光物品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0763_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 11655
+  label: 蘇悉地羯羅經卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0763_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 33 分別悉地時分品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0763_T_003-mulu-2
+    span:
+    - body
+    - 556
+    - 556
+  label: 34 圓備成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0763_T_003-mulu-3
+    span:
+    - body
+    - 1222
+    - 1222
+  label: 35 奉請成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0763_T_003-mulu-4
+    span:
+    - body
+    - 2651
+    - 2651
+  label: 36 補闕少法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0763_T_003-mulu-5
+    span:
+    - body
+    - 8041
+    - 8041
+  label: 37 被偷成就物卻徵法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0763_T_003-mulu-6
+    span:
+    - body
+    - 10479
+    - 10479
+  label: 38 成就具支法品
+  type: mulu
+  level: 1
+hash: sha256:044dd5bf09387937c165bfbdc8e65d1534db7056dfe56fe2de4ee0a32549ea64
