@@ -28,13 +28,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0763_000.yaml, hash: 'sha256:d6f5829a7ed60e33e34f42d2ff829ae0e53af496185be372b23dec9564525b84'}
-  - {seq: 1, filename: KR6j0763_001.yaml, hash: 'sha256:26bbe96297034fd514647743a035080b05126fb8254f011edcff2ecd35c09943'}
-  - {seq: 2, filename: KR6j0763_002.yaml, hash: 'sha256:c4049c3feee388c0a57e4352f045eb86ec847e4696876cb61cfa1a877151425f'}
-  - {seq: 3, filename: KR6j0763_003.yaml, hash: 'sha256:c6969a5f2bb5f82436cb8f724d31239ac57253743f9eb307050271bf1ae9f51c'}
+  - {seq: 1, filename: KR6j0763_001.yaml, hash: 'sha256:4cab1c85a6f3914ae8d52895d4d87be429a4f5c61a8ae28de352141f06958712'}
+  - {seq: 2, filename: KR6j0763_002.yaml, hash: 'sha256:29132cd7b6ea11a53ec1cedafc32d05173e830cbfce9124b6d36c65409263b41'}
+  - {seq: 3, filename: KR6j0763_003.yaml, hash: 'sha256:f2b991bbdc535ed70800e3659af3068c8d6635161861bad088b368da2e027340'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0763_001.markers.yaml, hash: 'sha256:19f0b27690bf449e7a098ef19280699d9ad442999acf0ef14cf608b8b340d5eb'}
-  - {seq: 2, role: markers, filename: assets/KR6j0763_002.markers.yaml, hash: 'sha256:5b46e48928f36a57046a9b870acfe08e7bc993beee04d492b960d680797b2cf4'}
-  - {seq: 3, role: markers, filename: assets/KR6j0763_003.markers.yaml, hash: 'sha256:2e38fee5218cd036fa3e2933869fd22077e12f9b2937e1fc1c9f764dde6e2fef'}
+  - {seq: 0, role: markers, filename: assets/KR6j0763_000.markers.yaml, hash: 'sha256:9044e8121a9eb5e61f4308aa739adf545854188a7a0782ae1aac26097e1806b5'}
+  - {seq: 1, role: markers, filename: assets/KR6j0763_001.markers.yaml, hash: 'sha256:8eb44a5845930cbe9afce719971cb1034f3cd08c2a1c86bbcf6535e1fe238419'}
+  - {seq: 2, role: markers, filename: assets/KR6j0763_002.markers.yaml, hash: 'sha256:1957fa8d574c8445b62d903b65898b30fa55db8fe8293306f5bd4a820818db7c'}
+  - {seq: 3, role: markers, filename: assets/KR6j0763_003.markers.yaml, hash: 'sha256:b6f5a0201680ddc104af24168662e0d4a4e686924a7ad58dd0fa740343d8a259'}
 table_of_contents:
 - ref:
     seq: 1
@@ -416,7 +417,4 @@ table_of_contents:
   label: 38 成就具支法品
   type: mulu
   level: 1
-hash: sha256:16e8e7d18833600a22a6402a67d088e69cfa95972a8e61eedd9cd186086aee19
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4ab3d7c2f3571cad2ae7a410cb7b02b1288a1788d10e20846e5eeb0f83eba85a
